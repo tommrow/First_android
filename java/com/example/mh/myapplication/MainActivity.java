@@ -12,8 +12,5 @@ public class MainActivity extends AppCompatActivity {
     }
    // void（）
 
-    void asfsfasdfasfhas();
-
-
-    void   asfsfashkfa();
+    void asfsfasdfasfhas()
 }
